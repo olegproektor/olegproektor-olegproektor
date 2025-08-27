@@ -97,8 +97,8 @@
 ---
 
 ### 📫 Контакты
-- ✉️ Email: [oleg@example.com](mailto:oleg@example.com)  
-- 💬 Telegram: [@olegproektor](https://t.me/olegproektor)  
+- ✉️ Email: [Lespola76@gmail.com](mailto:Lespola76@gmail.com)  
+- 💬 Telegram: [@lespol](https://t.me/Lespol)  
 - 🌐 Личный сайт-резюме: [oleg-portfolio.com](https://oleg-portfolio.com)
 
 ---
