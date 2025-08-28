@@ -58,7 +58,7 @@
 
 ---
 
-### 📌 Pinned Projects
+### 📌 Проекты
 <div align="center">
   <a href="https://github.com/olegproektor/BrandFlowAI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=olegproektor&repo=BrandFlowAI&theme=radical" />
